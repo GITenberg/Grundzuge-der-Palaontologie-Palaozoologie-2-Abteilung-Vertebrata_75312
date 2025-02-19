@@ -1,0 +1,67 @@
+_repo: Grundzuge-der-Palaontologie-Palaozoologie-2-Abteilung-Vertebrata_75312
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zittel, Karl Alfred von
+    aliases:
+    - Von Zittel, Karl Alfred
+    - Zittel, Karl A. (Karl Alfred)
+    - Zittel, K. A. (Karl Alfred)
+    - Zittel, Carl Alfred
+    birthdate: 1839
+    deathdate: 1904
+    gutenberg_agent_id: '55799'
+    url: http://www.gutenberg.org/2009/agents/55799
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Karl_Alfred_von_Zittel
+    - https://de.wikipedia.org/wiki/Karl_Alfred_von_Zittel
+  editors:
+  - agent_name: Broili, Ferdinand
+    alias: Broili, F. (Ferdinand)
+    birthdate: 1874
+    deathdate: 1946
+    gutenberg_agent_id: '57938'
+    url: http://www.gutenberg.org/2009/agents/57938
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ferdinand_Broili
+    - https://de.wikipedia.org/wiki/Ferdinand_Broili
+  - agent_name: Koken, E. (Ernst Friedrich Rudolph Karl)
+    alias: Koken, Ernst Friedrich Rudolph Karl
+    birthdate: 1860
+    deathdate: 1912
+    gutenberg_agent_id: '57939'
+    url: http://www.gutenberg.org/2009/agents/57939
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ernst_Koken
+    - https://de.wikipedia.org/wiki/Ernst_Koken
+  - agent_name: Schlosser, Max
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '57940'
+    url: http://www.gutenberg.org/2009/agents/57940
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Max_Schlosser_(zoologist)
+    - https://de.wikipedia.org/wiki/Max_Schlosser_(Pal%C3%A4ontologe)
+description: ''
+gutenberg_issued: '2025-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75312'
+language: de
+pgterms:marc904: https://archive.org/details/grundzgederpalon02zitt
+pgterms:marc905: 20190427065625zittel
+pgterms:marc906: '1911'
+pgterms:marc907: de
+production_note: Peter Becker, Iris Schröder-Gehring and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: $aMünchen :$bR. Oldenbourg, $c1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleontology'
+- !lcc 'QE'
+- GITenberg
+title: 'Grundzüge der Paläontologie (Paläozoologie). 2. Abteilung: Vertebrata.'
+url: http://www.gutenberg.org/ebooks/75312
