@@ -1,5 +1,8 @@
 _repo: Grundzuge-der-Palaontologie-Palaozoologie-2-Abteilung-Vertebrata_75312
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75312-h/images/cover.jpg
 creator:
   author:
     agent_name: Zittel, Karl Alfred von
@@ -43,6 +46,8 @@ creator:
     - https://en.wikipedia.org/wiki/Max_Schlosser_(zoologist)
     - https://de.wikipedia.org/wiki/Max_Schlosser_(Pal%C3%A4ontologe)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75312#Grundzuge-der-Palaontologie-Palaozoologie-2-Abteilung-Vertebrata
 gutenberg_issued: '2025-02-07'
 gutenberg_type: Text
 identifiers:
